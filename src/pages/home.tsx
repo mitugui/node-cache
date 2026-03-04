@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <>Teste 1 CI</>
+    <>Teste 2 CI</>
   );
 }
 
